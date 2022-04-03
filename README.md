@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayedmisbah10
-- 👀 I’m interested in football
-- 🌱 I’m currently learning pcme
-- 💞️ I’m looking to collaborate on architecture or canvas
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
